@@ -2,8 +2,7 @@ A New World — Minimal Wesnoth Add-on
 ====================================
 What it is
 ----------
-- A **Campaign** called “A New World” with a single scenario and a single map.
-- A matching **Multiplayer** scenario that uses the exact same map (so all players must have this add-on).
+- A **Campaign** called “A New World” with one sandbox scenario on the New World map.
 
 Install
 -------
@@ -14,10 +13,8 @@ Install
 Where to find it in-game
 ------------------------
 - **Campaigns**: select “A New World”
-- **Multiplayer → Create → Scenarios**: select “ANW: Duel (Test Map)”
 
 Notes
 -----
-- The campaign scenario is intentionally simple: move your Spearman, end your turn, you win.
-- The MP scenario is just a test bed on the same map to confirm synchronization and that the add-on is required for all players.
+- Seven factions share the map; alliances are scripted through Lua so diplomacy can expand later.
 - Everything is structured to be expanded later (more scenarios, custom units, events, etc.).
