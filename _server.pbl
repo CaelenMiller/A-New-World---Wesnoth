@@ -1,0 +1,6 @@
+title="A New World"
+type="campaign"
+icon="misc/blank-hex.png"
+version="0.1.0"
+author="You"
+description="Single-scenario campaign (plus a basic 2p MP scenario) that uses one map. Skeleton for future work."
